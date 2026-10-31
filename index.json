@@ -1,0 +1,3389 @@
+{
+ "updated": 1793445564786,
+ "plugins": [
+  {
+   "id": "anf.net",
+   "name": "AllNovelFull",
+   "version": 2003004,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novgo.net/",
+   "entry": "plugins/anf.net.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "allnovel",
+   "name": "AllNovel",
+   "version": 2003005,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelfull.com/",
+   "entry": "plugins/allnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "arcane",
+   "name": "Arcane Translations",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://arcanetranslations.com/",
+   "entry": "plugins/arcane.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "bailiantales",
+   "name": "BaiLianTales",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://bailiantales.com/",
+   "entry": "plugins/bailiantales.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "bellereservoir",
+   "name": "Belle Repository",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://bellerepository.com/",
+   "entry": "plugins/bellereservoir.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "blumeverse",
+   "name": "BlumeVerse",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://blume-verse.com/",
+   "entry": "plugins/blumeverse.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "boxnovel",
+   "name": "BoxNovel",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelnice.com/",
+   "entry": "plugins/boxnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "cpunovel",
+   "name": "CPUnovel",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://cpunovel.com/",
+   "entry": "plugins/cpunovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "cherrymistcafe",
+   "name": "Cherry Mist Cafe",
+   "version": 1002001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://cherrymist.cafe/",
+   "entry": "plugins/cherrymistcafe.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "citrusaurora",
+   "name": "Citrus Aurora",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://citrusaurora.com/",
+   "entry": "plugins/citrusaurora.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "coralboutique",
+   "name": "Coral Boutique",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://coralboutique.xyz/",
+   "entry": "plugins/coralboutique.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "daonovel",
+   "name": "DaoNovel",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://daonovel.co/",
+   "entry": "plugins/daonovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "daotranslate",
+   "name": "DaoTranslate",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://daotranslate.com/",
+   "entry": "plugins/daotranslate.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "daoistquest",
+   "name": "Daoist Quest",
+   "version": 1002001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://daoist.quest",
+   "entry": "plugins/daoistquest.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "dearestrosalie",
+   "name": "Dearest Rosalie",
+   "version": 1002000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://dearestrosalie.com",
+   "entry": "plugins/dearestrosalie.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "dobynovels",
+   "name": "DobyNovels",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://dobynovels.com/",
+   "entry": "plugins/dobynovels.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "dragontea",
+   "name": "Dragon Tea",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://dragontea.ink/",
+   "entry": "plugins/dragontea.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "duskblossoms",
+   "name": "Dusk Blossoms",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://duskblossoms.com/",
+   "entry": "plugins/duskblossoms.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "ellotl",
+   "name": "ElloTL",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://ellotl.com/",
+   "entry": "plugins/ellotl.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "eternalune",
+   "name": "Eternalune",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://eternalune.com/",
+   "entry": "plugins/eternalune.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "etudetranslations",
+   "name": "Etude Translations",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://etudetranslations.com/",
+   "entry": "plugins/etudetranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "fannovel",
+   "name": "FanNovel",
+   "version": 1000005,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.fanmtl.com",
+   "entry": "plugins/fannovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wuxiamtl",
+   "name": "Fans MTL",
+   "version": 1000005,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.fanmtl.com",
+   "entry": "plugins/wuxiamtl.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "fanstranslations",
+   "name": "Fans Translations",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://fanstranslations.com/",
+   "entry": "plugins/fanstranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "1stkissnovel",
+   "name": "FirstKissNovel",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://1stkissnovel.org/",
+   "entry": "plugins/1stkissnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "foxaholic",
+   "name": "Foxaholic",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.foxaholic.com/",
+   "entry": "plugins/foxaholic.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "FWN.com",
+   "name": "Free Web Novel",
+   "version": 2003009,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://freewebnovel.com/",
+   "entry": "plugins/FWN.com.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "galaxytranslations",
+   "name": "Galaxy Translations",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://darkstartranslations.com/",
+   "entry": "plugins/galaxytranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "guavaread",
+   "name": "Guavaread",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://guavaread.com/",
+   "entry": "plugins/guavaread.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "hangulplanet",
+   "name": "HangulPlanet",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://hangulplanet.com",
+   "entry": "plugins/hangulplanet.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "hiraethtranslation",
+   "name": "Hiraeth Translation",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://hiraethtranslation.com/",
+   "entry": "plugins/hiraethtranslation.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "hotnovelpub",
+   "name": "HotNovelPub",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://hotnovelpub.com",
+   "entry": "plugins/hotnovelpub.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "hyacinthbloom",
+   "name": "Hyacinth in Bloom",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://hyacinthbloom.com/",
+   "entry": "plugins/hyacinthbloom.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "ippotranslations",
+   "name": "Ippotranslations",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://ippotranslations.com/",
+   "entry": "plugins/ippotranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "keopi",
+   "name": "Keopi Translations",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://keopitranslations.com",
+   "entry": "plugins/keopi.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "knoxt",
+   "name": "KnoxT",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://knoxt.space/",
+   "entry": "plugins/knoxt.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lazygirltranslations",
+   "name": "Lazy Girl Translations",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lazygirltranslations.com",
+   "entry": "plugins/lazygirltranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "libread",
+   "name": "Lib Read",
+   "version": 2003006,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://libread.com/",
+   "entry": "plugins/libread.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lightnovelcave",
+   "name": "LightNovelCave",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.lightnovelcave.com/",
+   "entry": "plugins/lightnovelcave.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lnheaven",
+   "name": "LightNovelHeaven",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lightnovelheaven.com/",
+   "entry": "plugins/lnheaven.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lightnovelplus",
+   "name": "LightNovelPlus",
+   "version": 2003003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lightnovelplus.com/",
+   "entry": "plugins/lightnovelplus.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lightnovelpubvip",
+   "name": "LightNovelPub Vip",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lightnovelpub.vip/",
+   "entry": "plugins/lightnovelpubvip.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "LightNovelUpdates",
+   "name": "Light Novel Updates",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.lightnovelupdates.com/",
+   "entry": "plugins/LightNovelUpdates.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lilyonthevalley",
+   "name": "Lily on the Valley",
+   "version": 1002001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lilyonthevalley.com",
+   "entry": "plugins/lilyonthevalley.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lovelyblossoms",
+   "name": "Lovelyblossoms",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lovelyblossoms.com/",
+   "entry": "plugins/lovelyblossoms.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "ltnovel",
+   "name": "Ltnovel",
+   "version": 1000004,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.ltnovels.com",
+   "entry": "plugins/ltnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lullobox",
+   "name": "LulloBox",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lullobox.com/",
+   "entry": "plugins/lullobox.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lunarletters",
+   "name": "LunarLetters",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lunarletters.com/",
+   "entry": "plugins/lunarletters.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "mtl-novel",
+   "name": "MTL-Novel",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://mtl-novel.com/",
+   "entry": "plugins/mtl-novel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "mtlnovel",
+   "name": "MTL Novel",
+   "version": 1001003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.mtlnovels.com/",
+   "entry": "plugins/mtlnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "meownovel",
+   "name": "Meownovel",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://meownovel.com/",
+   "entry": "plugins/meownovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "moonlightnovel",
+   "name": "Moonlight Novels",
+   "version": 1001013,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://moonlightnovel.com/",
+   "entry": "plugins/moonlightnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "mostnovel",
+   "name": "MostNovel",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://mostnovel.com/",
+   "entry": "plugins/mostnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "mysticalmerries",
+   "name": "MysticalSeries",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://mysticalmerries.com/",
+   "entry": "plugins/mysticalmerries.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "neosekaiTLS",
+   "name": "NeoSekai Translations",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.neosekaitranslations.com/",
+   "entry": "plugins/neosekaiTLS.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "nitromanga",
+   "name": "Nitro Manga",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://nitromanga.com/",
+   "entry": "plugins/nitromanga.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "noblemtl",
+   "name": "NobleMTL",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://noblemtl.com/",
+   "entry": "plugins/noblemtl.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "noicetranslations",
+   "name": "Noice Translations",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://noicetranslations.com/",
+   "entry": "plugins/noicetranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelcool",
+   "name": "NovelCool",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.novelcool.com",
+   "entry": "plugins/novelcool.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelfire",
+   "name": "Novel Fire",
+   "version": 1004005,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelfire.net/",
+   "entry": "plugins/novelfire.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelfull",
+   "name": "NovelFull",
+   "version": 2003003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelfull.com/",
+   "entry": "plugins/novelfull.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelib",
+   "name": "NovelLib",
+   "version": 1002000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelib.com",
+   "entry": "plugins/novelib.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelmultiverse",
+   "name": "NovelMultiverse",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.novelmultiverse.com/",
+   "entry": "plugins/novelmultiverse.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelnice",
+   "name": "Novel Nice",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelnice.com/",
+   "entry": "plugins/novelnice.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelninja",
+   "name": "Novel Ninja",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelninja.xyz/",
+   "entry": "plugins/novelninja.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "NO.net",
+   "name": "novelsOnline",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelsonline.org",
+   "entry": "plugins/NO.net.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelphoenix",
+   "name": "Novel Phoenix",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelphoenix.com/",
+   "entry": "plugins/novelphoenix.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelping",
+   "name": "Novel Ping",
+   "version": 2003003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelping.com/",
+   "entry": "plugins/novelping.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelshort",
+   "name": "Novel Short",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novel-short.com/",
+   "entry": "plugins/novelshort.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelTL",
+   "name": "NovelTranslate",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://noveltranslate.com/",
+   "entry": "plugins/novelTL.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelsknight",
+   "name": "NovelsKnight",
+   "version": 1001014,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelsknight.punchmanga.online/",
+   "entry": "plugins/novelsknight.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "ossantl",
+   "name": "OssanTL",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://ossantl.my.id/",
+   "entry": "plugins/ossantl.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "pandamtl",
+   "name": "Panda Machine Translations",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://pandamtl.com/",
+   "entry": "plugins/pandamtl.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "pasteltales",
+   "name": "Pastel Tales",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://pasteltales.com/",
+   "entry": "plugins/pasteltales.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "penguinsquad",
+   "name": "Penguin Squad",
+   "version": 1002000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://penguin-squad.com",
+   "entry": "plugins/penguinsquad.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "prizmatranslation",
+   "name": "Prizma",
+   "version": 1002000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://prizmatranslation.com",
+   "entry": "plugins/prizmatranslation.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "ranobes",
+   "name": "Ranobes",
+   "version": 2000003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://ranobes.top",
+   "entry": "plugins/ranobes.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "ranovel",
+   "name": "Ranovel",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://ranovel.com/",
+   "entry": "plugins/ranovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "readfanfic",
+   "name": "Read Fanfic",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://readfanfic.com/",
+   "entry": "plugins/readfanfic.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "readnovelfull",
+   "name": "ReadNovelFull",
+   "version": 2003003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://readnovelfull.com/",
+   "entry": "plugins/readnovelfull.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "requiemtls",
+   "name": "Requiem Translations",
+   "version": 1001016,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://requiemtls.com/",
+   "entry": "plugins/requiemtls.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "salmonlatte",
+   "name": "Salmon Latte",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://salmonlatte.com/",
+   "entry": "plugins/salmonlatte.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "sleeptTLS",
+   "name": "SleepyTranslations",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://sleepytranslations.com/",
+   "entry": "plugins/sleeptTLS.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "sonicmtl",
+   "name": "SonicMTL",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.sonicmtl.com/",
+   "entry": "plugins/sonicmtl.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "asuralightnovel",
+   "name": "Srank Manga",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://srankmanga.com/",
+   "entry": "plugins/asuralightnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "storyseedling",
+   "name": "StorySeedling",
+   "version": 1000006,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://storyseedling.com/",
+   "entry": "plugins/storyseedling.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "sweetescape",
+   "name": "Sweet Escape",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://sweetescapetranslations.com/",
+   "entry": "plugins/sweetescape.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "systemtranslation",
+   "name": "System Translation",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://systemtranslation.com/",
+   "entry": "plugins/systemtranslation.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "tangerinearchive",
+   "name": "Tangerine Archive",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://tangerinearchive.com/",
+   "entry": "plugins/tangerinearchive.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "translatinotaku",
+   "name": "TranslatinOtaku",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://translatinotaku.net/",
+   "entry": "plugins/translatinotaku.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "transweaver",
+   "name": "Translation Weaver",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://transweaver.com/",
+   "entry": "plugins/transweaver.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "universalnovel",
+   "name": "Universal Novel",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://universalnovel.com/",
+   "entry": "plugins/universalnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "vandytranslate",
+   "name": "Vandy Translate",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://vandytranslate.com",
+   "entry": "plugins/vandytranslate.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "violetlily",
+   "name": "Violet Lily",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://violetlilytranslation.com/",
+   "entry": "plugins/violetlily.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "webnovelover",
+   "name": "WebNovelLover",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.webnovelover.com/",
+   "entry": "plugins/webnovelover.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "webnovelworld",
+   "name": "Web Novel Pub",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.webnovelworld.org/",
+   "entry": "plugins/webnovelworld.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "whitemoonlightnovels",
+   "name": "White Moonlight Novels",
+   "version": 1001012,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://whitemoonlightnovels.com/",
+   "entry": "plugins/whitemoonlightnovels.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wooksteahouse",
+   "name": "Wook's Teahouse",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://wooksteahouse.com/",
+   "entry": "plugins/wooksteahouse.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wordexcerpt",
+   "name": "WordExcerpt",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://wordexcerpt.com/",
+   "entry": "plugins/wordexcerpt.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wuxiaspace",
+   "name": "Wuxia Space",
+   "version": 1000004,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.wuxiaspot.com",
+   "entry": "plugins/wuxiaspace.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wuxiav",
+   "name": "WuxiaV",
+   "version": 1000003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.wuxiav.com",
+   "entry": "plugins/wuxiav.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wuxiaworld.site",
+   "name": "WuxiaWorld.Site",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://wuxiaworld.site/",
+   "entry": "plugins/wuxiaworld.site.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wuxiap",
+   "name": "Wuxiabox",
+   "version": 1000003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.wuxiabox.com",
+   "entry": "plugins/wuxiap.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wuxiacity",
+   "name": "Wuxiafox",
+   "version": 1000003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.wuxiafox.com",
+   "entry": "plugins/wuxiacity.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "zetroTL",
+   "name": "Zetro Translation",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://zetrotranslation.com/",
+   "entry": "plugins/zetroTL.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "animeanyway",
+   "name": "Anime Anyway",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://animeanyway.com/",
+   "entry": "plugins/animeanyway.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "archiveofourown",
+   "name": "Archive Of Our Own",
+   "version": 1000005,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://archiveofourown.org/",
+   "entry": "plugins/archiveofourown.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "asianfanfics",
+   "name": "Asianfanfics",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.asianfanfics.com/",
+   "entry": "plugins/asianfanfics.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "asurascans",
+   "name": "Asura Scans",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://asurascans.com",
+   "entry": "plugins/asurascans.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "atsumaru",
+   "name": "Atsumaru",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://atsu.moe",
+   "entry": "plugins/atsumaru.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "bakatsuki",
+   "name": "Baka-Tsuki",
+   "version": 1001000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.baka-tsuki.org/project/",
+   "entry": "plugins/bakatsuki.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "beastnovels",
+   "name": "Beast Novels",
+   "version": 1001000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://beastnovels.com/",
+   "entry": "plugins/beastnovels.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "boonnovel",
+   "name": "BoonNovel",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://reader.boondollars.com",
+   "entry": "plugins/boonnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "borntobenovel",
+   "name": "BornToBeNovel",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://borntobenovel.com",
+   "entry": "plugins/borntobenovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "bronstl",
+   "name": "BronsTL",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://bronstl.com",
+   "entry": "plugins/bronstl.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "chikari",
+   "name": "Chikari",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://chikari.moe",
+   "entry": "plugins/chikari.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "chrysanthemumgarden",
+   "name": "Chrysanthemum Garden",
+   "version": 1000003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://chrysanthemumgarden.com",
+   "entry": "plugins/chrysanthemumgarden.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "cotereader",
+   "name": "COTE Reader",
+   "version": 1000007,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://cote-reader.me",
+   "entry": "plugins/cotereader.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "crimsonscrolls",
+   "name": "Crimson Scrolls",
+   "version": 1001000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://crimsonscrolls.net",
+   "entry": "plugins/crimsonscrolls.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "daotekno",
+   "name": "DaoTekno",
+   "version": 1000003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://daotekno.com/",
+   "entry": "plugins/daotekno.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "DDL.com",
+   "name": "Divine Dao Library",
+   "version": 1001001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.divinedaolibrary.com/",
+   "entry": "plugins/DDL.com.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "dragonholic",
+   "name": "Dragonholic",
+   "version": 3000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://dragonholictranslations.com",
+   "entry": "plugins/dragonholic.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "dreambigtl",
+   "name": "Dream Big Translations",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.dreambigtl.com/",
+   "entry": "plugins/dreambigtl.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "dreamyTranslations",
+   "name": "Dreamy Translations",
+   "version": 1001001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://dreamy-translations.com",
+   "entry": "plugins/dreamyTranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "empirenovel",
+   "name": "Empire Novel",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.empirenovel.com/",
+   "entry": "plugins/empirenovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "FWK.US",
+   "name": "Faq Wiki",
+   "version": 4000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://faqwiki.xyz",
+   "entry": "plugins/FWK.US.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "fenrir",
+   "name": "Fenrir Realm",
+   "version": 1001004,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://fenrirealm.com",
+   "entry": "plugins/fenrir.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "fictionzone",
+   "name": "Fiction Zone",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://fictionzone.net",
+   "entry": "plugins/fictionzone.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "firebirdsnest",
+   "name": "Firebird's Nest",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://firebirdsnest.org",
+   "entry": "plugins/firebirdsnest.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "foxteller",
+   "name": "Foxteller",
+   "version": 1000003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.foxteller.com",
+   "entry": "plugins/foxteller.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "FuckNovelpia",
+   "name": "FuckNovelpia",
+   "version": 1001003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://fucknovelpia.com/",
+   "entry": "plugins/FuckNovelpia.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "genesistudio",
+   "name": "Genesis",
+   "version": 2000003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://genesistudio.com",
+   "entry": "plugins/genesistudio.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "hennoveltranslations",
+   "name": "Hen Novel Translations",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://hennoveltranslations.org",
+   "entry": "plugins/hennoveltranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "indratranslations",
+   "name": "Indra Translations",
+   "version": 1003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://indratranslations.com",
+   "entry": "plugins/indratranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "inkitt",
+   "name": "Inkitt",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.inkitt.com",
+   "entry": "plugins/inkitt.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "inoveltranslation",
+   "name": "iNovelTranslation",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://inoveltranslation.com",
+   "entry": "plugins/inoveltranslation.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "kdtnovels",
+   "name": "KDT Novels",
+   "version": 2000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://kdtnovels.net/",
+   "entry": "plugins/kdtnovels.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "konkon",
+   "name": "Konkon",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://konkon.ink",
+   "entry": "plugins/konkon.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "LeafStudio",
+   "name": "LeafStudio",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://leafstudio.site/",
+   "entry": "plugins/LeafStudio.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lightnovelto",
+   "name": "LightNovel.to",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lightnovel.to",
+   "entry": "plugins/lightnovelto.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lightnoveltranslations",
+   "name": "Light Novel Translations",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lightnovelstranslations.com/",
+   "entry": "plugins/lightnoveltranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lightnovelworld",
+   "name": "LightNovelWorld",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lightnovelworld.org/",
+   "entry": "plugins/lightnovelworld.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lncrawler",
+   "name": "LNCrawler",
+   "version": 1001001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lncrawler.monster",
+   "entry": "plugins/lncrawler.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lnmtl",
+   "name": "LnMTL",
+   "version": 2001001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lnmtl.com/",
+   "entry": "plugins/lnmtl.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "lnori",
+   "name": "LNORI",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://lnori.com/",
+   "entry": "plugins/lnori.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "luminaretranslations",
+   "name": "Luminare Translations",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://luminaretranslations.com",
+   "entry": "plugins/luminaretranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "maehwasup",
+   "name": "Maehwasup",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://maehwasup.com",
+   "entry": "plugins/maehwasup.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "mizupanshoko",
+   "name": "Mizupan's Archives",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://mizupanshoko.wordpress.com",
+   "entry": "plugins/mizupanshoko.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "mvlempyr.com",
+   "name": "MVLEMPYR",
+   "version": 1000015,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.mvlempyr.io/",
+   "entry": "plugins/mvlempyr.com.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "mylasted",
+   "name": "Machine Editing (MyLasted)",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://mylasted.blogspot.com",
+   "entry": "plugins/mylasted.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "mynovels",
+   "name": "Mynovels",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://mynovels.su/",
+   "entry": "plugins/mynovels.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "nightjarreads",
+   "name": "Nightjar Reads",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://nightjarreads.com",
+   "entry": "plugins/nightjarreads.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novel7s",
+   "name": "Novel7s",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novel7s.com",
+   "entry": "plugins/novel7s.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelarchive",
+   "name": "Novel Archive",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelarchive.cc",
+   "entry": "plugins/novelarchive.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelarrow",
+   "name": "Novel Arrow",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelarrow.com/",
+   "entry": "plugins/novelarrow.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelbin",
+   "name": "Novel Bin",
+   "version": 3000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelbin.xyz/",
+   "entry": "plugins/novelbin.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelbuddy",
+   "name": "NovelBuddy",
+   "version": 2001004,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelbuddy.me/",
+   "entry": "plugins/novelbuddy.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "noveldex",
+   "name": "NovelDex",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://noveldex.io",
+   "entry": "plugins/noveldex.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelhall",
+   "name": "Novel Hall",
+   "version": 1000003,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelhall.com/",
+   "entry": "plugins/novelhall.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelhi",
+   "name": "NovelHi",
+   "version": 1001002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelhi.com/",
+   "entry": "plugins/novelhi.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelight",
+   "name": "Novelight",
+   "version": 1001005,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelight.net/",
+   "entry": "plugins/novelight.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelito",
+   "name": "Novelito",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://noveli.to",
+   "entry": "plugins/novelito.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelrest",
+   "name": "NovelRest",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://novelrest.vercel.app",
+   "entry": "plugins/novelrest.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "novelupdates",
+   "name": "Novel Updates",
+   "version": 9009,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.novelupdates.com/",
+   "entry": "plugins/novelupdates.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "onlinereadfreenovel",
+   "name": "Online Read Free Novel",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://onlinereadfreenovel.com",
+   "entry": "plugins/onlinereadfreenovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "pawread",
+   "name": "PawRead",
+   "version": 2001001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://m.pawread.com/",
+   "entry": "plugins/pawread.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "peachpuff",
+   "name": "Peach Puff Translations",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://peachpuff.in/",
+   "entry": "plugins/peachpuff.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "puffinfolio",
+   "name": "Puffin Folio",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.puffinfolio.com/",
+   "entry": "plugins/puffinfolio.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "rainofsnow",
+   "name": "Rainofsnow",
+   "version": 1001002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://rainofsnow.com/",
+   "entry": "plugins/rainofsnow.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "readfrom",
+   "name": "Read From Net",
+   "version": 1001000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://readfrom.net/",
+   "entry": "plugins/readfrom.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "rechapters",
+   "name": "ReChapters",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.rechapters.com",
+   "entry": "plugins/rechapters.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "ReLib",
+   "name": "Re:Library",
+   "version": 1000004,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://re-library.com",
+   "entry": "plugins/ReLib.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "royalroad",
+   "name": "Royal Road",
+   "version": 2003004,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.royalroad.com/",
+   "entry": "plugins/royalroad.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "scribblehub",
+   "name": "Scribble Hub",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.scribblehub.com/",
+   "entry": "plugins/scribblehub.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "seireitranslations",
+   "name": "Seirei Translations",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://seireitranslations.blogspot.com",
+   "entry": "plugins/seireitranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "skythewoodtranslations",
+   "name": "Skythewood Translations",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://skythewood.blogspot.com",
+   "entry": "plugins/skythewoodtranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "sylthorian",
+   "name": "The Sylthorian",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://thesylthorian.com",
+   "entry": "plugins/sylthorian.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "tensurafan",
+   "name": "Tensurafan",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://tensurafan.github.io",
+   "entry": "plugins/tensurafan.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "tinytranslation",
+   "name": "TinyTranslation",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.tinytranslation.xyz",
+   "entry": "plugins/tinytranslation.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "toasteful",
+   "name": "Toasteful",
+   "version": 1000002,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.toasteful.com",
+   "entry": "plugins/toasteful.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "vynovel",
+   "name": "VyNovel",
+   "version": 1000001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://vynovel.com",
+   "entry": "plugins/vynovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "witchculttranslations",
+   "name": "Witch Cult Translations",
+   "version": 1000000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://witchculttranslation.com",
+   "entry": "plugins/witchculttranslations.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "webnovel",
+   "name": "Webnovel",
+   "version": 1001000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.webnovel.com",
+   "entry": "plugins/webnovel.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wetriedtls",
+   "name": "We Tried TLS",
+   "version": 1000006,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://wetriedtls.com",
+   "entry": "plugins/wetriedtls.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "WebNovelTraslation",
+   "name": "Web Novel Translation",
+   "version": 2003000,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://wntl.net/",
+   "entry": "plugins/WebNovelTraslation.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "WTRLAB",
+   "name": "WTR-LAB",
+   "version": 1002006,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://wtr-lab.com/",
+   "entry": "plugins/WTRLAB.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "wuxiaworld",
+   "name": "Wuxia World",
+   "version": 5001,
+   "type": "novel",
+   "lang": "en",
+   "baseUrl": "https://www.wuxiaworld.com/",
+   "entry": "plugins/wuxiaworld.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": false,
+    "text": true
+   }
+  },
+  {
+   "id": "mangadex",
+   "name": "MangaDex",
+   "version": 1000000,
+   "type": "manga",
+   "lang": "en",
+   "baseUrl": "https://mangadex.org",
+   "entry": "plugins/mangadex.js",
+   "capabilities": {
+    "search": true,
+    "popular": true,
+    "latest": true,
+    "detail": true,
+    "chapters": true,
+    "pages": true,
+    "text": false
+   }
+  }
+ ]
+}
